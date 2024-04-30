@@ -1,0 +1,11 @@
+gino
+wheel
+asyncio
+redis
+aioredis
+asyncpg
+aiogram==2.25
+xlsxwriter
+python-docx
+yahoo-fin
+gspread-asyncio
